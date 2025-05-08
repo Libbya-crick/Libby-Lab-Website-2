@@ -12,6 +12,7 @@
   date: '2025-02-01'
   link: https://doi.org/g9hn4x
   orcid: 0000-0002-8139-8844
+  ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2024.05.16.594506
@@ -26,6 +27,7 @@
   date: '2024-05-16'
   link: https://doi.org/g9hn4z
   orcid: 0000-0002-8139-8844
+  ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1242/dev.202516
@@ -41,6 +43,7 @@
   date: '2024-03-15'
   link: https://doi.org/g8xmk4
   orcid: 0000-0002-8139-8844
+  ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1242/dev.202774
@@ -52,6 +55,7 @@
   date: '2024-02-15'
   link: https://doi.org/g9hn42
   orcid: 0000-0002-8139-8844
+  ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.11.06.565933
@@ -67,6 +71,7 @@
   date: '2023-11-07'
   link: https://doi.org/g9hn43
   orcid: 0000-0002-8139-8844
+  ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.02.27.530267
@@ -81,6 +86,7 @@
   date: '2023-02-28'
   link: https://doi.org/gsxnvk
   orcid: 0000-0002-8139-8844
+  ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1242/dev.198275
@@ -100,6 +106,7 @@
   date: '2021-06-15'
   link: https://doi.org/g8xmnb
   orcid: 0000-0002-8139-8844
+  ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.11.01.363713
@@ -117,6 +124,7 @@
   date: '2020-11-03'
   link: https://doi.org/g9hn44
   orcid: 0000-0002-8139-8844
+  ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.09.21.307470
@@ -130,6 +138,7 @@
   date: '2020-09-22'
   link: https://doi.org/g9hn45
   orcid: 0000-0002-8139-8844
+  ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cels.2019.10.008
@@ -146,6 +155,7 @@
   date: '2019-11-01'
   link: https://doi.org/ggfwcn
   orcid: 0000-0002-8139-8844
+  ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.7554/eLife.36045
@@ -165,6 +175,7 @@
   date: '2018-10-09'
   link: https://doi.org/gg8xbm
   orcid: 0000-0002-8139-8844
+  ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
