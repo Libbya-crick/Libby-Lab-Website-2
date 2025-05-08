@@ -1,9 +1,9 @@
 ---
 ---
 
-# Libbya-crick's Website
+# Libby Lab's Website (work in progress)
 
-An engaging 1-3 sentence description of your lab.
+connecting molecular environments to morphogenic control of development
 
 {% include section.html %}
 
