@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-You can find us at the [Donnelly Center for Cellular + Biomolecular Research](https://thedonnellycentre.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/)
+You can find us at the [Donnelly Center for Cellular + Biomolecular Research](https://thedonnellycentre.utoronto.ca/) 
 
 {%
   include button.html
