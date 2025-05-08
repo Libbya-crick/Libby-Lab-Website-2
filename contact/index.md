@@ -1,33 +1,26 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 6
   tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+You can find us at the [Donnelly Center for Cellular + Biomolecular Research](https://thedonnellycentre.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/)
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="ashley.libby@crickac.uk"
+  link="ashley.libby@crick.ac.uk"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/wt5cezwJ6Bjffg7P6"
 %}
 
 {% include section.html %}
@@ -36,8 +29,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/St_GeorgeCampus.png"
+  caption="University of Toronto"
 %}
 
 {% endcapture %}
@@ -46,10 +39,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Donnelly-center-cellular-biomecular-research-university-toronto-01-toronto-society-architects-ben-rahn.jpg"
+  caption="Donnelly within UofT"
 %}
 
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
+{% include section.html dark=true %}
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
