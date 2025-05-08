@@ -39,7 +39,7 @@ You can find us at the [Donnelly Center for Cellular + Biomolecular Research](ht
 
 {%
   include figure.html
-  image="images/Donnelly-center-cellular-biomecular-research-university-toronto-01-toronto-society-architects-ben-rahn.jpg"
+  image="images/Donnelly-center.jpg"
   caption="Donnelly within UofT"
 %}
 
