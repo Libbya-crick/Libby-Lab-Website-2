@@ -16,9 +16,11 @@ Meet our growing team:
 
 {% include section.html background="images/donnelly_center2.jpg" dark=false %}
 
-Please [reach out](/recruitment) if you are interested in joining! We are happy to chat about possible projects and fellowships. 
+Do you want to know more?
 
 {% include section.html %}
+
+Please [reach out](/recruitment) if you are interested in joining! We are happy to chat about possible projects and fellowships. 
 
 {% capture content %}
 
