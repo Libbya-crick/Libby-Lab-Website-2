@@ -39,7 +39,7 @@ You can find us at the [Donnelly Center for Cellular + Biomolecular Research](ht
 
 {%
   include figure.html
-  image="images/Donnelly-center.jpg"
+  image="images/Donnelly-center-cropped.jpg"
   caption="Donnelly within UofT"
 %}
 
