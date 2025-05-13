@@ -29,7 +29,7 @@ You can find us at the [Donnelly Center for Cellular + Biomolecular Research](ht
 
 {%
   include figure.html
-  image="images/St_GeorgeCampus.png"
+  image="images/website_logos-03.jpg"
   caption="University of Toronto"
 %}
 
@@ -39,7 +39,7 @@ You can find us at the [Donnelly Center for Cellular + Biomolecular Research](ht
 
 {%
   include figure.html
-  image="images/Donnelly-center-cropped.jpg"
+  image="images/website_logos-04.jpg"
   caption="Donnelly within UofT"
 %}
 
