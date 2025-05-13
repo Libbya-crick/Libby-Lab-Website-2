@@ -15,6 +15,22 @@
   ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41586-024-08332-w
+  title: "Timely TGF\u03B2 signalling inhibition induces notochord"
+  authors:
+  - Tiago Rito
+  - Ashley R. G. Libby
+  - Madeleine Demuth
+  - Marie-Charlotte Domart
+  - Jake Cornwall-Scoones
+  - James Briscoe
+  publisher: Nature
+  date: '2024-12-18'
+  link: https://doi.org/g8wc7r
+  orcid: 0000-0002-8139-8844
+  ARG-Libby: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.05.16.594506
   title: An in vivo CRISPR screen in chick embryos reveals a role for MLLT3 in specification
     of neural cells from the caudal epiblast
@@ -70,6 +86,27 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-11-07'
   link: https://doi.org/g9hn43
+  orcid: 0000-0002-8139-8844
+  ARG-Libby: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.devcel.2023.05.019
+  title: Loss of TJP1 disrupts gastrulation patterning and increases differentiation
+    toward the germ cell lineage in human pluripotent stem cells
+  authors:
+  - Ivana Vasic
+  - Ashley R.G. Libby
+  - Annie Maslan
+  - Emily A. Bulger
+  - David Zalazar
+  - Martina Z. Krakora Compagno
+  - Aaron Streets
+  - Kiichiro Tomoda
+  - Shinya Yamanaka
+  - Todd C. McDevitt
+  publisher: Developmental Cell
+  date: '2023-08-01'
+  link: https://doi.org/gsg7rk
   orcid: 0000-0002-8139-8844
   ARG-Libby: true
   plugin: orcid.py
