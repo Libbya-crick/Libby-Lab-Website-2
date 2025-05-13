@@ -588,19 +588,19 @@
     
       
         <a
-          href="/Libby-Lab-Website-2/News/"
-          data-tooltip="Latest from the lab"
+          href="/Libby-Lab-Website-2/contact/"
+          data-tooltip="Email, address, and location"
         >
-          News
+          Contact
         </a>
       
     
       
         <a
-          href="/Libby-Lab-Website-2/contact/"
-          data-tooltip="Email, address, and location"
+          href="/Libby-Lab-Website-2/News/"
+          data-tooltip="Latest from the lab"
         >
-          Contact
+          News
         </a>
       
     
