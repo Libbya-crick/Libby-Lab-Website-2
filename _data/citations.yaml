@@ -15,7 +15,6 @@
   ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
-  image: images/Screen-website-paper.png
 - id: doi:10.1038/s41586-024-08332-w
   title: "Timely TGF\u03B2 signalling inhibition induces notochord"
   authors:
