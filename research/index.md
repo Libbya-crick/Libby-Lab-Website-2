@@ -14,7 +14,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="An <i>in vivo</i> CRISPR screen in chick embryos reveals a role for MLLT3
+    in specification of neural cells from the caudal epiblast" style="rich" %}
 
 {% include section.html %}
 
