@@ -16,6 +16,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include citation.html lookup="doi:10.1242/dev.204591" style="rich" %}
 
+{% include citation.html lookup="doi:10.1038/s41586-024-08332-w" style="rich" %}
+
+{% include citation.html lookup="doi:10.1242/dev.198275" style="rich" %}
+
+{% include citation.html lookup="doi:10.1016/j.cels.2019.10.008" style="rich" %}
+
 {% include section.html %}
 
 ## All - with preprints!
