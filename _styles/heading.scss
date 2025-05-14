@@ -16,33 +16,33 @@ h6 {
 
 h1 {
   margin: 40px 0;
-  font-size: 1.6rem;
+  font-size: var(--xl);
   font-weight: var(--regular);
   text-transform: uppercase;
   text-align: center;
 }
 
 h2 {
-  font-size: 1.6rem;
+  font-size: var(--xl);
   padding-bottom: 5px;
   border-bottom: solid 1px var(--light-gray);
   font-weight: var(--regular);
 }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.625rem;
 }
 
 h4 {
-  font-size: 1.3rem;
+  font-size: 1.425rem;
 }
 
 h5 {
-  font-size: 1.15rem;
+  font-size: 1.275rem;
 }
 
 h6 {
-  font-size: 1rem;
+  font-size: 1.125rem;
 }
 
 :where(h1, h2, h3, h4, h5, h6) > .icon {
