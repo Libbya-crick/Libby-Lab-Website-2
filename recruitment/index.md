@@ -11,13 +11,13 @@ Our team is still growing.
 
 ## Postdoctoral Positions:
 
-If you are interested in joining our lab as a Postdoctoral Fellow, please [email Ashley](/contact) with your research interests and your CV.
+If you are interested in joining our lab as a Postdoctoral Fellow, please [email Ashley]({{ '/contact' | relative_url }}) with your research interests and your CV.
 
 We are also happy to discuss the possibility of supporting postdoctoral candidates in applying for fellowships.
 
 ## PhD Students:
 
-For informal equiries, please [email Ashley](/contact) with your CV, explaining your academic background and research interests.
+For informal equiries, please [email Ashley]({{ '/contact' | relative_url }}) with your CV, explaining your academic background and research interests.
 
 The University of Toronto hosts PhD students from a range of programs: [Study at the U of T](https://www.sgs.utoronto.ca/programs/)
 
@@ -28,7 +28,7 @@ Our lab is recruiting through:
 
 ## Research Assistants:
 
-Please [email Ashley](/contact) with your interests and CV. 
+Please [email Ashley]({{ '/contact' | relative_url }}) with your interests and CV. 
 
 {% capture content %}
 
