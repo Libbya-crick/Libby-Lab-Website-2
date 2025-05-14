@@ -15,6 +15,9 @@ links:
 
 ### jekyll settings
 
+# show future-dated posts
+future: true
+
 # front matter defaults
 defaults:
   # all markdown files
