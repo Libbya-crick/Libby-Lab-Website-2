@@ -1,6 +1,15 @@
 - id: doi:10.1242/dev.204591
   image: images/Screen-website-paper.png
 
+- id: doi:10.1038/s41586-024-08332-w
+  image: images/website-tiago-paper.png
+
+- id: doi:10.1242/dev.198275
+  image: images/website-neural-tails.png
+
+- id: doi:10.1016/j.cels.2019.10.008
+  image: images/website-libby-briers.png
+
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
