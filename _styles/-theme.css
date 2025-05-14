@@ -27,9 +27,12 @@
   --heading: "Outfit", sans-serif;
   --body: "Outfit", sans-serif;
   --code: "Roboto Mono", monospace;
-  --large: 1.4rem;
-  --xl: 1.6rem;
-  --xxl: 1.8rem;
+  --base-size: 18px;
+  --small: 0.9rem;
+  --medium: 1.1rem;
+  --large: 1.525rem;
+  --xl: 1.725rem;
+  --xxl: 1.925rem;
   --thin: 300;
   --regular: 500;
   --semi-bold: 600;
