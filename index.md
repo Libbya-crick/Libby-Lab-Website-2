@@ -11,7 +11,7 @@ connecting molecular environments to morphogenic control of development
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, {% include highlight.html content="sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." %}
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, {% include highlight.html content="sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." %}
 
 
 {% endcapture %}
@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, {% include highlight.html content="sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." %}
 
 {%
   include button.html
