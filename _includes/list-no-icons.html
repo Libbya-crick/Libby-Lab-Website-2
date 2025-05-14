@@ -1,0 +1,60 @@
+{% assign data = site.data[include.data] %}
+
+{% if include.filter %}
+  {% assign filtered = data | where_exp: "item", include.filter %}
+{% else %}
+  {% assign filtered = data %}
+{% endif %}
+
+{% if include.sort %}
+  {% assign sorted = filtered | sort: include.sort %}
+  {% if include.flip == true %}
+    {% assign sorted = sorted | reverse %}
+  {% endif %}
+{% else %}
+  {% assign sorted = filtered %}
+{% endif %}
+
+{% if include.limit %}
+  {% assign limited = sorted | slice: 0, include.limit %}
+{% else %}
+  {% assign limited = sorted %}
+{% endif %}
+
+{% assign auto_heading_id = include.data | append: "-list-heading" %}
+
+{% assign component = include.component %}
+{% if component %}
+  <div class="list">
+    {% if include.heading %}
+      <p
+        {% if include.heading_id %}
+          id="{{ include.heading_id }}"
+        {% else %}
+          id="{{ auto_heading_id }}"
+        {% endif %}
+        class="list_heading"
+      >
+        {{ include.heading }}
+      </p>
+    {% endif %}
+    {% for item in limited %}
+      {% include citation-no-icon.html
+        title=item.title
+        description=item.description
+        date=item.date
+        authors=item.authors
+        id=item.id
+        publisher=item.publisher
+        image=item.image
+        link=item.link
+        style=include.style 
+      %}
+    {% endfor %}
+  </div>
+{% else %}
+  {% include alert.html
+    type="warning"
+    content="No component specified for list include"
+  %}
+{% endif %} 
