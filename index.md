@@ -1,7 +1,7 @@
 ---
 ---
 
-# Connecting Molecular to Morphogenic in Spinal Cord Development
+# Morphogenic Environments Across Scales
 
 Understanding molecular environments in the control of neural development
 
