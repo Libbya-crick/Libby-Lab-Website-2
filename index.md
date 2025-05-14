@@ -1,9 +1,9 @@
 ---
 ---
 
-# Libby Lab's Website (work in progress)
+# Connecting Molecular to Morphogenic in Spinal Cord Development
 
-connecting molecular environments to morphogenic control of development
+Understanding molecular environments in the control of neural development
 
 {% include section.html %}
 
