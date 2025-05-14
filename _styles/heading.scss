@@ -27,11 +27,11 @@ h2 {
   padding-bottom: 5px;
   border-bottom: solid 1px var(--light-gray);
   font-weight: var(--regular);
-  color: #045d45; /* Dark green color */
+  color: #009966; /* Updated to requested color */
 }
 
 [data-dark="true"] h2 {
-  color: #4ade80; /* Lighter green for dark mode */
+  color: #00cc88; /* Lighter shade of #009966 for dark mode */
 }
 
 h3 {
