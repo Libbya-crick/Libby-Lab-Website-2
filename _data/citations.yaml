@@ -147,6 +147,20 @@
   ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.stemcr.2021.04.008
+  title: Deep neural net tracking of human pluripotent stem cells reveals intrinsic
+    behaviors directing morphogenesis
+  authors:
+  - David A. Joy
+  - Ashley R.G. Libby
+  - Todd C. McDevitt
+  publisher: Stem Cell Reports
+  date: '2021-05-01'
+  link: https://doi.org/gsw8sd
+  orcid: 0000-0002-8139-8844
+  ARG-Libby: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2020.11.01.363713
   title: Silencing of E-cadherin in induced human pluripotent stem cells promotes
     extraembryonic fates accompanying multilineage differentiation
