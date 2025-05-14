@@ -30,8 +30,9 @@
   link: https://doi.org/g8wc7r
   orcid: 0000-0002-8139-8844
   ARG-Libby: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/website-tiago-paper.png
 - id: doi:10.1101/2024.05.16.594506
   title: An in vivo CRISPR screen in chick embryos reveals a role for MLLT3 in specification
     of neural cells from the caudal epiblast
@@ -145,8 +146,9 @@
   link: https://doi.org/g8xmnb
   orcid: 0000-0002-8139-8844
   ARG-Libby: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/website-neural-tails.png
 - id: doi:10.1016/j.stemcr.2021.04.008
   title: Deep neural net tracking of human pluripotent stem cells reveals intrinsic
     behaviors directing morphogenesis
@@ -208,8 +210,9 @@
   link: https://doi.org/ggfwcn
   orcid: 0000-0002-8139-8844
   ARG-Libby: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/website-libby-briers.png
 - id: doi:10.7554/eLife.36045
   title: Spatiotemporal mosaic self-patterning of pluripotent stem cells using CRISPR
     interference
