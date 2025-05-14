@@ -20,7 +20,7 @@ Do you want to know more?
 
 {% include section.html %}
 
-Please [reach out](/recruitment) if you are interested in joining! We are happy to chat about possible projects and fellowships. 
+Please [reach out]({{ '/recruitment' | relative_url }}) if you are interested in joining! We are happy to chat about possible projects and fellowships. 
 
 {% capture content %}
 
