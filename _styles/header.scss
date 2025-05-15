@@ -60,7 +60,7 @@ header a {
 
 .title {
   font-size: var(--large);
-  color: #009966;
+  color: var(--primary);
 }
 
 .subtitle {
@@ -107,11 +107,11 @@ nav {
 
 nav > a {
   padding: 5px;
-  color: #dcfce7;
+  color: var(--text);
 }
 
 nav > a:hover {
-  color: #05d872;
+  color: var(--primary);
 }
 
 header:not([data-big]) {
@@ -162,7 +162,7 @@ header[data-big] {
 
   .title {
     font-size: var(--xxl);
-    color: #009966;
+    color: var(--primary);
   }
 
   .subtitle {
