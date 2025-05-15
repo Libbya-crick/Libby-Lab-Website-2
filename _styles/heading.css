@@ -24,11 +24,11 @@ h2 {
   padding-bottom: 5px;
   border-bottom: solid 1px var(--light-gray);
   font-weight: var(--regular);
-  color: #016630; /* Updated to requested green */
+  color: var(--secondary); /* Using theme secondary color */
 }
 
 [data-dark=true] h2 {
-  color: #24a455; /* Lighter shade of #016630 for dark mode */
+  color: var(--secondary); /* Using theme secondary color for dark mode too */
 }
 
 h3 {
