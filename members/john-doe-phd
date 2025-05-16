@@ -469,7 +469,7 @@
 
 <header
   class="background"
-  style="--image: url('/Libby-Lab-Website-2/images/chick_background_long.jpg')"
+  style="--image: url('/Libby-Lab-Website-2/images/Lavision_UMII_overview.png')"
   
     data-dark="true"
   
@@ -529,19 +529,19 @@
     
       
         <a
-          href="/Libby-Lab-Website-2/News/"
-          data-tooltip="Latest from the lab"
+          href="/Libby-Lab-Website-2/outreach/"
+          data-tooltip="Outreach and Public Engagement"
         >
-          News
+          Outreach
         </a>
       
     
       
         <a
-          href="/Libby-Lab-Website-2/outreach/"
-          data-tooltip="Outreach and Public Engagement"
+          href="/Libby-Lab-Website-2/News/"
+          data-tooltip="Latest from the lab"
         >
-          Outreach
+          News
         </a>
       
     
@@ -649,7 +649,7 @@ This could be you!
 
 <footer
   class="background"
-  style="--image: url('/Libby-Lab-Website-2/images/chick_background_long.jpg')"
+  style="--image: url('/Libby-Lab-Website-2/images/Lavision_UMII_overview.png')"
   
     data-dark="true"
   
