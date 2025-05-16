@@ -1,6 +1,6 @@
 [data-dark=false] {
   --primary: #006ae4;
-  --secondary: #01575e;
+  --secondary: #18a352;
   --text: #24292f;
   --background: #ffffff;
   --background-alt: #f6f8fa;
@@ -29,7 +29,7 @@
   --heading: "Outfit", sans-serif;
   --body: "Outfit", sans-serif;
   --code: "Roboto Mono", monospace;
-  --base-size: 24px;
+  --base-size: 18px;
   --small: 0.9rem;
   --medium: 1.1rem;
   --large: 1.525rem;

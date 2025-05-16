@@ -1,3 +1,4 @@
+/* Header styles with updated parameters */
 header {
   display: flex;
   justify-content: space-between;
@@ -123,7 +124,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 100px 20px;
+  padding: 70px 20px;
   top: unset;
 }
 header[data-big] .home {
@@ -131,7 +132,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 200px;
+  height: 300px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
