@@ -1,6 +1,6 @@
 [data-dark=false] {
   --primary: #006ae4;
-  --secondary: #23CE6B;
+  --secondary: #023C40;
   --text: #24292f;
   --background: #ffffff;
   --background-alt: #f6f8fa;
@@ -8,7 +8,7 @@
   --gray: #6e7781;
   --dark-gray: #57606a;
   --overlay: #24292f10;
-  --hover: #2AF5FF;
+  --hover: #23CE6B;
 }
 
 [data-dark=true] {
@@ -21,7 +21,7 @@
   --gray: #8b949e;
   --dark-gray: #c9d1d9;
   --overlay: #ffffff15;
-  --hover: #2AF5FF;
+  --hover: #00ff6a;
 }
 
 :root {
