@@ -1,4 +1,4 @@
-/* Button styles - updated to use new button color variable */
+/* Button styles - updated with green background and black text */
 button {
   cursor: pointer;
 }
@@ -17,8 +17,8 @@ button {
   padding: 8px 15px;
   border: none;
   border-radius: var(--rounded);
-  background: var(--primary);
-  color: var(--button);
+  background: #2cf680;
+  color: #000000;
   text-align: center;
   font: inherit;
   font-family: var(--heading);
