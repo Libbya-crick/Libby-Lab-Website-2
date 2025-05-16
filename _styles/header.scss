@@ -161,11 +161,19 @@ header[data-big] {
   }
 
   .title {
-    font-size: var(--xxl);
+    font-size: calc(var(--xxl) + 5px);
     color: var(--primary);
   }
 
   .subtitle {
-    font-size: var(--large);
+    font-size: calc(var(--large) + 5px);
+  }
+  
+  nav {
+    font-size: calc(1rem + 5px);
+  }
+  
+  .nav-toggle:after {
+    font-size: calc(15px + 5px);
   }
 }
