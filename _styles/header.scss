@@ -161,8 +161,9 @@ header[data-big] {
   }
 
   .title {
-    font-size: calc(var(--xxl) + 5px);
+    font-size: calc(var(--xxl) * 2);
     color: var(--primary);
+    font-weight: var(--bold);
   }
 
   .subtitle {
