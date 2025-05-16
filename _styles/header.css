@@ -35,11 +35,6 @@ header a {
   height: 100%;
 }
 
-.homepage-icon {
-  width: auto;
-  height: 100%;
-}
-
 .title-text {
   display: flex;
   justify-content: flex-start;
@@ -136,11 +131,8 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 120px;
+  height: 80px;
   flex-shrink: 0;
-}
-header[data-big] .homepage-icon {
-  height: 120px;
 }
 header[data-big] .title-text {
   flex-direction: column;
