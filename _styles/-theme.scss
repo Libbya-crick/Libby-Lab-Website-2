@@ -2,28 +2,28 @@
 ---
 // colors
 [data-dark="false"] {
-  --primary: #4CBB16;
-  --secondary: #3968ED;
-  --text: #000000;
-  --background: #ffffff;
-  --background-alt: #f7f7f7;
-  --light-gray: #e0e0e0;
-  --gray: #808080;
-  --dark-gray: #404040;
-  --overlay: #00000010;
-  --hover: #4CBB16;
+  --primary: #023C40;    // GitHub green
+  --secondary: #006ae4;  // GitHub blue
+  --text: #24292f;       // GitHub dark text
+  --background: #ffffff; // White
+  --background-alt: #f6f8fa; // GitHub light gray background
+  --light-gray: #d0d7de;  // GitHub border color
+  --gray: #6e7781;        // GitHub secondary text
+  --dark-gray: #57606a;   // GitHub muted text
+  --overlay: #24292f10;   // Transparent overlay
+  --hover: #2188ff;       // GitHub hover blue
 }
 [data-dark="true"] {
-  --primary: #4CBB16;
-  --secondary: #3968ED;
-  --text: #ffffff;
-  --background: #000000;
-  --background-alt: #00910D;
-  --light-gray: #404040;
-  --gray: #808080;
-  --dark-gray: #b0b0b0;
-  --overlay: #ffffff15;
-  --hover: #4CBB16;
+  --primary: #23CE6B;     // GitHub dark mode green
+  --secondary: #2AF5FF;   // GitHub dark mode blue
+  --text: #e6edf3;        // GitHub dark mode text
+  --background: #0d1117;  // GitHub dark mode background
+  --background-alt: #161b22; // GitHub dark mode secondary background
+  --light-gray: #30363d;  // GitHub dark mode border
+  --gray: #8b949e;        // GitHub dark mode secondary text
+  --dark-gray: #c9d1d9;   // GitHub dark mode text
+  --overlay: #ffffff15;   // Transparent overlay
+  --hover:  #23CE6B;       // GitHub dark mode hover blue
 }
 
 :root {
