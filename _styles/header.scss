@@ -1,10 +1,10 @@
 ---
 ---
 
-/* Header styles with updated parameters */
+/* Header styles with updated parameters - reduced padding */
 $logo-big: 300px;
 $logo: 40px;
-$big-padding: 70px;
+$big-padding: 50px;
 $collapse: 700px;
 $sticky: true;
 
@@ -14,7 +14,7 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 20px;
+  padding: 10px;
   box-shadow: var(--shadow);
 
   @if $sticky {
@@ -162,7 +162,7 @@ header[data-big] {
   }
 
   .title {
-    font-size: calc(var(--xxl) * 2);
+    font-size: calc(var(--xxl) * 1.5);
     color: var(--primary);
     font-weight: var(--bold);
   }
