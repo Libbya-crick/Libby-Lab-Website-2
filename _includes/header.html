@@ -6,6 +6,10 @@
 {% assign jpg = "images/logo.jpg" | file_exists %}
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
+{% if page.url == "/" %}
+  {% assign homepage_icon = "images/icon2.png" | file_exists %}
+{% endif %}
+
 <header
   class="background"
   style="--image: url('{{ image | relative_url | uri_escape }}')"
@@ -17,7 +21,11 @@
   {% endif %}
 >
   <a href="{{ "/" | relative_url }}" class="home">
-    {% if logo %}
+    {% if page.url == "/" and homepage_icon %}
+      <span class="logo">
+        <img src="{{ homepage_icon | relative_url | uri_escape }}" alt="homepage icon" class="homepage-icon">
+      </span>
+    {% elsif logo %}
       <span class="logo">
         {% if svg %}
           {{ svg | file_read }}
