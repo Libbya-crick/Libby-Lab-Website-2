@@ -1,6 +1,6 @@
 [data-dark=false] {
   --primary: #006ae4;
-  --secondary: #023C40;
+  --secondary: #01575e;
   --text: #24292f;
   --background: #ffffff;
   --background-alt: #f6f8fa;
@@ -8,7 +8,7 @@
   --gray: #6e7781;
   --dark-gray: #57606a;
   --overlay: #24292f10;
-  --hover: #23CE6B;
+  --hover: #2AF5FF;
 }
 
 [data-dark=true] {
@@ -21,7 +21,7 @@
   --gray: #8b949e;
   --dark-gray: #c9d1d9;
   --overlay: #ffffff15;
-  --hover: #00ff6a;
+  --hover: #2AF5FF;
 }
 
 :root {
@@ -29,12 +29,12 @@
   --heading: "Outfit", sans-serif;
   --body: "Outfit", sans-serif;
   --code: "Roboto Mono", monospace;
-  --base-size: 18px;
+  --base-size: 24px;
   --small: 0.9rem;
   --medium: 1.1rem;
   --large: 1.525rem;
-  --xl: 1.725rem;
-  --xxl: 1.925rem;
+  --xl: 2rem;
+  --xxl:2.5rem;
   --thin: 300;
   --regular: 500;
   --semi-bold: 600;
