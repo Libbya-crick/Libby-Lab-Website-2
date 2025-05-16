@@ -1,4 +1,4 @@
-/* Button styles */
+/* Button styles - updated to use new button color variable */
 button {
   cursor: pointer;
 }
@@ -18,7 +18,7 @@ button {
   border: none;
   border-radius: var(--rounded);
   background: var(--primary);
-  color: var(--background);
+  color: var(--button);
   text-align: center;
   font: inherit;
   font-family: var(--heading);

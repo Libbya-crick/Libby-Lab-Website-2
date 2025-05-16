@@ -9,6 +9,7 @@
   --dark-gray: #57606a;
   --overlay: #24292f10;
   --hover: #2AF5FF;
+  --button: #23CE6B;
 }
 
 [data-dark=true] {
