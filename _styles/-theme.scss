@@ -3,7 +3,7 @@
 // colors
 [data-dark="false"] {
   --primary: #006ae4;    // GitHub green
-  --secondary: #023C40;  // GitHub blue
+  --secondary: #01575e;  // GitHub blue
   --text: #24292f;       // GitHub dark text
   --background: #ffffff; // White
   --background-alt: #f6f8fa; // GitHub light gray background
@@ -11,7 +11,7 @@
   --gray: #6e7781;        // GitHub secondary text
   --dark-gray: #57606a;   // GitHub muted text
   --overlay: #24292f10;   // Transparent overlay
-  --hover:   #23CE6B;       // GitHub hover blue
+  --hover:  #2AF5FF;       // GitHub hover blue
 }
 [data-dark="true"] {
   --primary: #23CE6B;     // GitHub dark mode green
@@ -23,7 +23,7 @@
   --gray: #8b949e;        // GitHub dark mode secondary text
   --dark-gray: #c9d1d9;   // GitHub dark mode text
   --overlay: #ffffff15;   // Transparent overlay
-  --hover:  #00ff6a;       // GitHub dark mode hover blue
+  --hover: #2AF5FF;       // GitHub dark mode hover blue
 }
 
 :root {
@@ -34,12 +34,12 @@
   --code: "Roboto Mono", monospace;
   
   // font sizes
-  --base-size: 18px;
+  --base-size: 24px;
   --small: 0.9rem;
   --medium: 1.1rem;
   --large: 1.525rem;
-  --xl: 1.725rem;
-  --xxl: 1.925rem;
+  --xl: 2rem;
+  --xxl:2.5rem;
 
   // font weights
   --thin: 300;
