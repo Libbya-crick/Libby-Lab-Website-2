@@ -1,6 +1,6 @@
 ---
 ---
-// colors - updated with brighter green
+// colors - updated with brighter green and new button color variable
 [data-dark="false"] {
   --primary: #006ae4;    // GitHub green
   --secondary: #18a352;  // GitHub blue
@@ -11,7 +11,8 @@
   --gray: #6e7781;        // GitHub secondary text
   --dark-gray: #57606a;   // GitHub muted text
   --overlay: #24292f10;   // Transparent overlay
-  --hover:  #2AF5FF;       // GitHub hover blue
+  --hover:  #2AF5FF;
+  --button: #23CE6B;      // New button color variable
 }
 [data-dark="true"] {
   --primary: #23CE6B;     // GitHub dark mode green
