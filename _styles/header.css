@@ -140,11 +140,17 @@ header[data-big] .title-text {
   text-align: center;
 }
 header[data-big] .title {
-  font-size: var(--xxl);
+  font-size: calc(var(--xxl) + 5px);
   color: var(--primary);
 }
 header[data-big] .subtitle {
-  font-size: var(--large);
+  font-size: calc(var(--large) + 5px);
+}
+header[data-big] nav {
+  font-size: calc(1rem + 5px);
+}
+header[data-big] .nav-toggle:after {
+  font-size: 20px;
 }
 
 /*# sourceMappingURL=header.css.map */
