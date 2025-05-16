@@ -47,11 +47,6 @@ header a {
   height: 100%;
 }
 
-.homepage-icon {
-  width: auto;
-  height: 100%;
-}
-
 .title-text {
   display: flex;
   justify-content: flex-start;
@@ -155,12 +150,8 @@ header[data-big] {
   }
 
   .logo {
-    height: 120px;
+    height: $logo-big;
     flex-shrink: 0;
-  }
-
-  .homepage-icon {
-    height: 120px;
   }
 
   .title-text {
