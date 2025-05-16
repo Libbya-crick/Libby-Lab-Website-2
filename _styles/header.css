@@ -1,11 +1,11 @@
-/* Header styles with updated parameters */
+/* Header styles with updated parameters - reduced padding */
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 20px;
+  padding: 10px;
   box-shadow: var(--shadow);
   position: sticky !important;
   top: 0;
@@ -124,7 +124,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 70px 20px;
+  padding: 50px 20px;
   top: unset;
 }
 header[data-big] .home {
@@ -141,7 +141,7 @@ header[data-big] .title-text {
   text-align: center;
 }
 header[data-big] .title {
-  font-size: calc(var(--xxl) * 2);
+  font-size: calc(var(--xxl) * 1.5);
   color: var(--primary);
   font-weight: var(--bold);
 }
