@@ -15,6 +15,7 @@ h1 {
   margin: 40px 0;
   font-size: var(--xl);
   font-weight: var(--bold);
+  color: var(--tirtiary);
   text-transform: uppercase;
   text-align: left;
 }
