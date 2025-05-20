@@ -132,7 +132,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 300px;
+  height: 200px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
@@ -141,7 +141,7 @@ header[data-big] .title-text {
   text-align: center;
 }
 header[data-big] .title {
-  font-size: calc(var(--xxl) * 1.5);
+  font-size: calc(var(--xxl) * 1.25);
   color: var(--primary);
   font-weight: var(--bold);
 }
