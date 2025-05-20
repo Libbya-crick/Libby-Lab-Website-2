@@ -3,20 +3,26 @@
 
 # Morphogenic Environments Across Scales
 
-Understanding molecular environments in the control of neural development
+The Libby Lab is interested is understanding how tissues are generated from limited starting populations of stem cells. This process is remarkable as it involves the coordination of individual cellular units that need to interpret a complex environment, specify end fate, and physically move into place. Further, this must occur in a coordinated manner with neighbouring cells to build functional tissues. As such, we strived to break down complex tissue generation into key components and explore how these concepts can be used to improve engineered tissues. Specifically, we think about the following questions:
+
+1) What physical elements inform morphogenesis and tissue building? 
+2) How do stem cells interpret complex environments? 
+3) What cell intrinsic molecular mechanisms drive stem cell specification?
+
+
+
 
 {% include section.html %}
 
-## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, {% include highlight.html content="sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." %}
+To begin to answer these questions, we use the developing spinal cord as a model examine how cell intrinsic fate decisions and tissue scale morphogenesis interact, forming feedback loops to connect population level behaviours.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Want to know more? See our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -32,17 +38,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, {% include highlight.ht
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, {% include highlight.html content="sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." %}
-
-
-{% endcapture %}
 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, {% include highlight.html content="sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." %}
+Lab opening in January 2026! We are actively recruiting scientists at all levels passionate about embryonic development, tissue engineering, and epigenetic regulation of fate.
 
 {%
   include button.html
