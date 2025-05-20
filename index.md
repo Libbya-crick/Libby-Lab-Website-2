@@ -5,11 +5,11 @@
 
 The Libby Lab is interested in understanding how tissues are generated from limited starting populations of stem cells. This process is remarkable as it involves the coordination of individual cellular units that need to interpret a complex environment, specify end fate, and physically move into place. Further, this must occur in a coordinated manner with neighbouring cells to build functional tissues. To break down the complex process of tissue generation into key components, we think about the following questions:
 
-**1)** What physical elements inform morphogenesis and tissue building? 
+**1) What physical elements inform morphogenesis and tissue building?**
 
-**2)** How do stem cells interpret complex environments? 
+**2) How do stem cells interpret complex environments?** 
 
-**3)** What cell intrinsic molecular mechanisms drive stem cell specification?
+**3) What cell intrinsic molecular mechanisms drive stem cell specification?**
 
 
 
