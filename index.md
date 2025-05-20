@@ -19,7 +19,7 @@ The Libby Lab is interested in understanding how tissues are generated from limi
 
 {% capture text %}
 
-To begin to answer these questions, we use the developing spinal cord as a model examine how cell intrinsic fate decisions and tissue scale morphogenesis interact, forming feedback loops to connect population level behaviours.
+To begin to answer these questions, we use the developing spinal cord as a model examine how cell fate decisions and tissue scale morphogenesis interact, forming feedback loops to connect population level behaviours to individual cell internal and external environments.
 
 {%
   include button.html
