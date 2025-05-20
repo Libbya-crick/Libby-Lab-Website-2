@@ -2,7 +2,7 @@
 ---
 
 /* Header styles with updated parameters - reduced padding */
-$logo-big: 300px;
+$logo-big: 200px;
 $logo: 40px;
 $big-padding: 50px;
 $collapse: 700px;
@@ -162,7 +162,7 @@ header[data-big] {
   }
 
   .title {
-    font-size: calc(var(--xxl) * 1.5);
+    font-size: calc(var(--xxl) * 1.25);
     color: var(--primary);
     font-weight: var(--bold);
   }
