@@ -1,7 +1,7 @@
 ---
 ---
 
-# Morphogenic Environments Across Scales
+# <span style="color: var(--primary)">Morphogenic Environments Across Scales</span>
 
 The Libby Lab is interested is understanding how tissues are generated from limited starting populations of stem cells. This process is remarkable as it involves the coordination of individual cellular units that need to interpret a complex environment, specify end fate, and physically move into place. Further, this must occur in a coordinated manner with neighbouring cells to build functional tissues. As such, we strived to break down complex tissue generation into key components and explore how these concepts can be used to improve engineered tissues. Specifically, we think about the following questions:
 
@@ -34,7 +34,7 @@ To begin to answer these questions, we use the developing spinal cord as a model
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="<span style='color: var(--primary)'>Our Research</span>"
   text=text
 %}
 
@@ -59,6 +59,6 @@ Lab opening in January 2026! We are actively recruiting scientists at all levels
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="<span style='color: var(--primary)'>Our Team</span>"
   text=text
 %}
