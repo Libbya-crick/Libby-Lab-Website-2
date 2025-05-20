@@ -38,6 +38,7 @@ To begin to answer these questions, we use the developing spinal cord as a model
   link="research"
   title="<span style='color: var(--secondary)'>Our Research</span>"
   text=text
+  style = "bare"
 %}
 
 
@@ -62,5 +63,7 @@ Lab opening in January 2026! We are actively recruiting scientists at all levels
   image="images/photo.jpg"
   link="team"
   title="<span style='color: var(--secondary)'>Our Team</span>"
+  flip=true
+  style = "bare"
   text=text
 %}
