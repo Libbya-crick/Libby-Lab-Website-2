@@ -15,9 +15,16 @@ Ashley earned her BA from Vanderbilt University and PhD in Developmental and Ste
 
 {%
   include feature.html
-  image="images/mcdevitt-lab.png"
+  image="images/phdadvisors.png"
   text=text
   style="float: right; margin-right: 20px; margin-top: 0;"
+%}
+
+{%
+  include feature.html
+  image="images/team/ashley-phd.png"
+  text=text
+  style="float: left; margin-right: 20px; margin-top: 0;"
 %}
 
 Ashley then joined the lab of Dr. James Briscoe at the Francis Crick Institute in London where she earned an EMBO Long-term Postdoctoral Fellowship. Her work investigated the genetic regulation of the stem cell populations that give rise to the neural tube combining in vivo CRISPR techniques, in vivo lineage tracing, and live imaging. 
