@@ -2,7 +2,7 @@
 title: Outreach
 nav:
   order: 5
-  tooltip: Outreach and Public Engagement
+  tooltip: Public Engagement
 ---
 
 # {% include icon.html icon="fa-solid fa-people-arrows" %}Outreach and Public Engagement

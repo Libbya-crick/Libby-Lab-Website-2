@@ -4,6 +4,9 @@ nav:
   order: 2
   tooltip: lab publications
 ---
+# {% include icon.html icon="fa-solid fa-people-arrows" %} Papers
+
+Our list of publications (and preprints!) is always growing so to make it easier we have made a list for you below:
 
 {% include section.html %}
 
