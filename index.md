@@ -2,22 +2,19 @@
 dark: true
 ---
 
-# <span style="color: var(--tirtiary)">Connecting molecular to morphogenic</span>
+# Connecting molecular to morphogenic
+The Libby Lab is interested in understanding how tissues are generated from limited starting populations of stem cells. This process is remarkable as it involves the coordination of individual cellular units that need to interpret a complex environment, specify end fate, and physically move into place. Further, this must occur in a coordinated manner with neighbouring cells to build functional tissues. To break down the complex process of tissue generation into key components, we think about the following questions:
 
-<div style="display: flex; gap: 40px; align-items: start;">
-  <div style="flex: 1;">
-    <img src="images/Libby_Avian_image.png" style="width: 100%; border-radius: 10px; box-shadow: var(--shadow);">
-  </div>
-  <div style="flex: 2;">
-    The Libby Lab is interested in understanding how tissues are generated from limited starting populations of stem cells. This process is remarkable as it involves the coordination of individual cellular units that need to interpret a complex environment, specify end fate, and physically move into place. Further, this must occur in a coordinated manner with neighbouring cells to build functional tissues. To break down the complex process of tissue generation into key components, we think about the following questions:
+{%
+  include figure.html
+  image="images/Libby_Avian_image.png"
+  width="75%"
+%}
+**1) What collective cell behaviours inform morphogenesis and tissue building?**
 
-    **1) What collective cell behaviours inform morphogenesis and tissue building?**
+**2) How do populations of stem cells interpret complex environments?** 
 
-    **2) How do populations of stem cells interpret complex environments?** 
-
-    **3) What cell intrinsic mechanisms buffer stem cell specification against changing environments?**
-  </div>
-</div>
+**3) What cell intrinsic mechanisms buffer stem cell specification against changing environments?**
 
 {% include section.html %}
 
