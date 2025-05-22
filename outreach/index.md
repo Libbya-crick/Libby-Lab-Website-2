@@ -5,7 +5,7 @@ nav:
   tooltip: Outreach and Public Engagement
 ---
 
-# {% include icon.html icon="fa-solid fa-people-arrows" %} Outreach
+# {% include icon.html icon="fa-solid fa-people-arrows" %} Outreach and Engagement
 
 Some examples of recent events include: 
 
