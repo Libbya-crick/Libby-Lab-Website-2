@@ -13,19 +13,24 @@ links:
 
 Ashley earned her BA from Vanderbilt University and PhD in Developmental and Stem Cell Biology at the University of California - San Francisco (UCSF) under the mentorship of Drs. Bruce Conklin and Todd McDevitt. Her doctoral research was funded by a NIH NRSA F31 Predoctoral Fellowship to investigate how to engineer self-directed multicellular organization and morphogenesis in gastrulation and embryonic trunk formation by using induced pluripotent stem cell models,  CRISPR-based assays, machine learning, and 3D organoid systems.
 
-{%
-  include feature.html
-  image="images/phdadvisors.png"
-  text=text
-  style="float: right; margin-right: 20px; margin-top: 0;"
-%}
-
-{%
-  include feature.html
-  image="images/team/ashley-phd.png"
-  text=text
-  style="float: left; margin-right: 20px; margin-top: 0;"
-%}
+<div style="display: flex; justify-content: space-between; margin: 20px 0; gap: 20px;">
+  <div style="flex: 1;">
+    {%
+      include feature.html
+      image="images/phdadvisors.png"
+      text=text
+      style="width: 100%; height: 300px; object-fit: cover;"
+    %}
+  </div>
+  <div style="flex: 1;">
+    {%
+      include feature.html
+      image="images/team/ashley-phd.png"
+      text=text
+      style="width: 100%; height: 300px; object-fit: cover;"
+    %}
+  </div>
+</div>
 
 Ashley then joined the lab of Dr. James Briscoe at the Francis Crick Institute in London where she earned an EMBO Long-term Postdoctoral Fellowship. Her work investigated the genetic regulation of the stem cell populations that give rise to the neural tube combining in vivo CRISPR techniques, in vivo lineage tracing, and live imaging. 
 
