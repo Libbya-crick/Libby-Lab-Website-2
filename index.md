@@ -2,9 +2,8 @@
 dark: true
 ---
 
-<div style="display: flex; min-height: 100vh;">
-  <div style="flex: 1; background-image: url('images/Libby_Avian_image.png'); background-size: cover; background-position: center; position: fixed; width: 33.33%; height: 100vh; left: 0; top: 0;"></div>
-  <div style="flex: 2; margin-left: 33.33%; padding: 20px;">
+<div style="background-image: url('images/Libby_Avian_image.png'); background-size: cover; background-position: center; min-height: 50vh; padding: 20px;">
+  <div style="max-width: 1200px; margin: 0 auto; background-color: rgba(13, 17, 23, 0.9); padding: 40px; border-radius: 10px;">
     <h1 style="font-size: 2rem;"><span style="color: var(--tirtiary)">Connecting molecular to morphogenic</span></h1>
 
     The Libby Lab is interested in understanding how tissues are generated from limited starting populations of stem cells. This process is remarkable as it involves the coordination of individual cellular units that need to interpret a complex environment, specify end fate, and physically move into place. Further, this must occur in a coordinated manner with neighbouring cells to build functional tissues. To break down the complex process of tissue generation into key components, we think about the following questions:
@@ -14,7 +13,11 @@ dark: true
     **2) How do populations of stem cells interpret complex environments?** 
 
     **3) What cell intrinsic mechanisms buffer stem cell specification against changing environments?**
+  </div>
+</div>
 
+<div style="background-color: var(--background); padding: 20px;">
+  <div style="max-width: 1200px; margin: 0 auto; padding: 40px;">
     {% include section.html %}
 
     {% capture text %}
