@@ -2,10 +2,10 @@
 title: Outreach
 nav:
   order: 5
-  tooltip: Public Engagement
+  tooltip: Outreach and Public Engagement
 ---
 
-# {% include icon.html icon="fa-solid fa-people-arrows" %}Outreach and Public Engagement
+# {% include icon.html icon="fa-solid fa-people-arrows" %} Outreach
 
 Some examples of recent events include: 
 
