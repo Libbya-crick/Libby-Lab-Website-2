@@ -547,19 +547,19 @@
     
       
         <a
-          href="/Libby-Lab-Website-2/News/"
-          data-tooltip="Latest from the lab"
+          href="/Libby-Lab-Website-2/outreach/"
+          data-tooltip="Outreach and Public Engagement"
         >
-          News
+          Outreach
         </a>
       
     
       
         <a
-          href="/Libby-Lab-Website-2/outreach/"
-          data-tooltip="Outreach and Public Engagement"
+          href="/Libby-Lab-Website-2/News/"
+          data-tooltip="Latest from the lab"
         >
-          Outreach
+          News
         </a>
       
     
