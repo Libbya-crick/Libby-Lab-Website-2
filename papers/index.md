@@ -22,6 +22,7 @@ Our list of publications (and preprints!) is always growing so to make it easier
 
 ## All Papers - with preprints!
 
+Explore all our published research and scientific contributions in developmental biology, stem cell research, and tissue engineering.
 {% include search-box.html %}
 
 {% include search-info.html %}
