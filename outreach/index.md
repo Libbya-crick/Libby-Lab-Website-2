@@ -1,7 +1,7 @@
 ---
 title: Outreach
 nav:
-  order: 5
+  order: 6
   tooltip: Outreach and Public Engagement
 ---
 
