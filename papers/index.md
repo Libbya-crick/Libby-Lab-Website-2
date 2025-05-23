@@ -6,11 +6,9 @@ nav:
 ---
 # {% include icon.html icon="fa-solid fa-people-arrows" %} Papers
 
-{% include section.html %}
-
-## Highlighted Papers
-
 Our list of publications (and preprints!) is always growing so to make it easier we have made a list of highlights below
+
+{% include section.html %}
 
 {% include citation.html lookup="doi:10.1242/dev.204591" style="rich" %}
 
@@ -22,7 +20,7 @@ Our list of publications (and preprints!) is always growing so to make it easier
 
 {% include section.html %}
 
-## All - with preprints!
+## All Papers - with preprints!
 
 {% include search-box.html %}
 
