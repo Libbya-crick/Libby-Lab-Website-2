@@ -15,7 +15,7 @@ Our team is still growing.
 
 ## Postdoctoral Positions:
 
-If you are interested in joining our lab as a Postdoctoral Fellow, please [email Ashley]({{ '/contact' | relative_url }}) with your research interests and your CV.
+If you are interested in joining our lab as a Postdoctoral Fellow, please [email Ashley]({{ '/contact' | relative_url }}) with your research interests, your CV, and a list of references.
 
 We are also happy to discuss the possibility of supporting postdoctoral candidates in applying for fellowships. We are funded by the NSERC and can support International IMPACT+ postdoc applications! (June 2026 deadline)
 
@@ -32,7 +32,7 @@ Our lab is recruiting through:
 
 ## Research Associates:
 
-We are looking for individuals passionate about developmental biology and tissue morphogenesis. Preferably with a background in pluripotent stem cell culture or embryology. If interested please [email Ashley]({{ '/contact' | relative_url }}) with your interests and CV. 
+We do not have RA positionals available
 
 {% capture content %}
 
