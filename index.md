@@ -38,7 +38,7 @@ To begin to answer these questions, we use the developing spinal cord as a model
 
 {% capture text %}
 
-Lab opening in January 2026! We are actively recruiting scientists at all levels passionate about embryonic development, tissue engineering, and epigenetic regulation of fate.
+Join our growing team! We are actively recruiting scientists at all levels passionate about embryonic development, tissue engineering, and epigenetic regulation of fate.
 
 {%
   include button.html
