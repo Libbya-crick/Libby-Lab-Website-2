@@ -53,7 +53,7 @@ Join our growing team! We are actively recruiting scientists at all levels passi
 
 {%
   include feature.html
-  image="images/team/lab photo june 2026.jpeg"
+  image="images/team/lab-photo-june-2026.jpeg"
   link="team"
   title="<span style='color: var(--secondary)'>Our Team</span>"
   flip=true
