@@ -25,5 +25,3 @@ Russell discovered his interest in developmental biology during his undergrad at
   </div>
 </div>
  
-
-{% capture text %}
