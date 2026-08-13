@@ -4,6 +4,7 @@ image: images/team/russel-win.jpg
 author: Ashley RG Libby
 tags:
   - winner!
+  - celebrations
 future: true
 ---
 
