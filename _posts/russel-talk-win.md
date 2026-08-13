@@ -7,4 +7,4 @@ tags:
 future: true
 ---
 
-Congratulations to Russell! Je was selected to give a talk at the Donnelly Centre Summer Student Symposium and he won best presentation!
+Congratulations to Russell! Russell was selected to give a talk at the Donnelly Centre Summer Student Symposium and he won best presentation!
