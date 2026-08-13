@@ -3,7 +3,7 @@ title: Welcoming our summer students
 image: images/team/lab-photo-june-2026.jpeg
 author: Ashley RG Libby
 tags:
-  - celebrations
+  - events
 future: true
 ---
 
