@@ -11,7 +11,7 @@ Kelly is an undergraduate student at the University of Toronto, majoring in Cell
   <div style="flex: 1;">
     {%
       include figure.html
-      image="images/team/kelly-poster-1.png"
+      image="images/team/kelly-poster-1.jpg"
       text=text
       caption = "Molecular Genetics Summer Undergrad Poster Session"
     %}
@@ -19,7 +19,7 @@ Kelly is an undergraduate student at the University of Toronto, majoring in Cell
   <div style="flex: 1;">
     {%
       include figure.html
-      image="images/team/kelly-poster-3.png"
+      image="images/team/kelly-poster-3.jpg"
       text=text
       caption = "Donnelly Centre Summer Undergrad Poster Session"
     %}
