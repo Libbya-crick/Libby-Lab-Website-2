@@ -26,5 +26,3 @@ Kelly is an undergraduate student at the University of Toronto, majoring in Cell
   </div>
 </div>
  
-
-{% capture text %}
