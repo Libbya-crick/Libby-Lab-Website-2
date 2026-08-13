@@ -19,7 +19,7 @@ Stephanie is a second-year student studying Molecular Genetics and Microbiology 
   <div style="flex: 1;">
     {%
       include figure.html
-      image="images/team/steph-poster-2.jpg"
+      image="images/team/steph-poster-4.jpg"
       text=text
       caption = "Donnelly Centre Summer Undergrad Poster Session"
     %}
