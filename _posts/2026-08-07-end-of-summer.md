@@ -3,7 +3,7 @@ title: Summer student goodbye
 image: images/team/lunch.jpeg
 author: Ashley RG Libby
 tags:
-  - celebrations
+  - events
 future: true
 ---
 
