@@ -196,6 +196,24 @@
   ARG-Libby: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.2139/ssrn.3701636
+  title: Transcription Factor Overexpression Drives Reliable Differentiation of Retinal
+    Pigment Epithelium from Human Induced Pluripotent Stem Cells
+  authors:
+  - Tessa E. Dewell
+  - Ketrin Gjoni
+  - Angela Z. Liu
+  - Ashley R.G. Libby
+  - Anthony T. Moore
+  - Po-Lin So
+  - Bruce R. Conklin
+  publisher: Elsevier BV
+  date: '2020-01-01'
+  link: https://doi.org/hcfhrc
+  orcid: 0000-0002-8139-8844
+  ARG-Libby: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.cels.2019.10.008
   title: Automated Design of Pluripotent Stem Cell Self-Organization
   authors:
