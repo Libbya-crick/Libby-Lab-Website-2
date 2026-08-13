@@ -26,5 +26,3 @@ Stephanie is a second-year student studying Molecular Genetics and Microbiology 
   </div>
 </div>
  
-
-{% capture text %}
