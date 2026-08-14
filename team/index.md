@@ -22,6 +22,8 @@ Meet our growing team:
 
 - **Russell Beltran** - University of Toronto, Molecular Genetics Graduate Program
 
+{% include section.html %}
+
 {% include section.html background="images/donnelly_center2.jpg" dark=false %}
 
 Do you want to know more?
