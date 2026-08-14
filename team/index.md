@@ -18,6 +18,12 @@ Meet our growing team:
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
+# {% include icon.html icon="fa-solid fa-users" %}Past Members
+
+{% include section.html %}
+
+- Russell Beltran - University of Toronto, Molecular Genetics Graduate Program
+
 {% include section.html background="images/donnelly_center2.jpg" dark=false %}
 
 Do you want to know more?
