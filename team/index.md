@@ -18,7 +18,7 @@ Meet our growing team:
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-# {% include icon.html icon="fa-solid fa-users" %}Past Members
+## Past Members
 
 {% include section.html %}
 
