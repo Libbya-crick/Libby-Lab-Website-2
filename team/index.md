@@ -20,7 +20,7 @@ Meet our growing team:
 
 ## Past Members
 
-- Russell Beltran - University of Toronto, Molecular Genetics Graduate Program
+- **Russell Beltran** - University of Toronto, Molecular Genetics Graduate Program
 
 {% include section.html background="images/donnelly_center2.jpg" dark=false %}
 
